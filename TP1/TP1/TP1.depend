@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1587239913 source:s:\users\juan de la canal\codeblocks\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1587236078 s:\users\juan de la canal\codeblocks\tp1\funciones.h
+
+1587236078 source:s:\users\juan de la canal\codeblocks\tp1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+
