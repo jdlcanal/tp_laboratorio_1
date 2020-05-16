@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1589662581 source:s:\users\juan de la canal\codeblocks\tp2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayEmployees.h"
+
+1589662591 source:s:\users\juan de la canal\codeblocks\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayEmployees.h"
+
+1589658948 s:\users\juan de la canal\codeblocks\tp2\arrayemployees.h
+
