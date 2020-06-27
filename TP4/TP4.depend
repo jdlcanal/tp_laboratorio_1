@@ -1,0 +1,88 @@
+# depslib dependency file v1.0
+1593179273 source:c:\users\ninav\desktop\tp4\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1593179239 c:\users\ninav\desktop\tp4\linkedlist.h
+
+1593175867 source:c:\users\ninav\desktop\tp4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+
+1593188585 source:c:\users\juan de la canal\desktop\aux-master\tp4\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1593188585 c:\users\juan de la canal\desktop\aux-master\tp4\linkedlist.h
+
+1593215361 source:c:\users\juan de la canal\desktop\aux-master\tp4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Peliculas.h"
+	"parser.h"
+
+1593215412 source:c:\users\juan de la canal\desktop\aux-master\tp4\peliculas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Peliculas.h"
+
+1593188585 c:\users\juan de la canal\desktop\aux-master\tp4\peliculas.h
+	"LinkedList.h"
+
+1593215318 source:c:\users\juan de la canal\desktop\aux-master\tp4\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Peliculas.h"
+
+1593188585 c:\users\juan de la canal\desktop\aux-master\tp4\parser.h
+
+1593296790 source:c:\users\juan de la canal\desktop\tp4\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1593296790 c:\users\juan de la canal\desktop\tp4\linkedlist.h
+
+1593293472 source:c:\users\juan de la canal\desktop\tp4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Peliculas.h"
+	"parser.h"
+	"Controller.h"
+
+1593281026 c:\users\juan de la canal\desktop\tp4\peliculas.h
+	"LinkedList.h"
+
+1593188585 c:\users\juan de la canal\desktop\tp4\parser.h
+
+1593292472 c:\users\juan de la canal\desktop\tp4\controller.h
+
+1593220665 source:c:\users\juan de la canal\desktop\tp4\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Peliculas.h"
+
+1593288493 source:c:\users\juan de la canal\desktop\tp4\peliculas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Peliculas.h"
+
+1593295061 source:c:\users\juan de la canal\desktop\tp4\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Peliculas.h"
+	"parser.h"
+
